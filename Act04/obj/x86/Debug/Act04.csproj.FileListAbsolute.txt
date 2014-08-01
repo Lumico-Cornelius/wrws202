@@ -1,0 +1,10 @@
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\Solutions\Act04\bin\Debug\Act04.exe
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\Solutions\Act04\bin\Debug\Act04.pdb
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\Solutions\Act04\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\Solutions\Act04\obj\x86\Debug\Act04.exe
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\Solutions\Act04\obj\x86\Debug\Act04.pdb
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\For Network\Act04\obj\x86\Debug\Act04.exe
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\For Network\Act04\obj\x86\Debug\Act04.pdb
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\For Network\Act04\bin\Debug\Act04.exe
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\For Network\Act04\bin\Debug\Act04.pdb
+D:\MyData\Courses\WRA2\2013\WRA202\Contact Sessions\Week 02 ~ 29 July 2013 (Stacks and Queues)\2013-07-29\For Network\Act04\obj\x86\Debug\ResolveAssemblyReference.cache

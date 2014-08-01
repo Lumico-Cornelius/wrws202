@@ -1,0 +1,52 @@
+1
+Charmain
+Computers in Education
+true
+2
+Jean
+Mobile Computing
+true
+3
+Janet
+Ubiquitous Computing
+true
+4
+Lester
+Ubiquitous Computing
+false
+3
+Ben
+Ubiquitous Computing
+true
+5
+Leda
+Ubiquitous Computing
+true
+6
+Marinda
+Mobile Computing
+true
+7
+Dix
+Ubiquitous Computing
+false
+8
+Dieter
+Virtual Reality
+true
+9
+MC
+Neural Networks
+true
+10
+Patrick
+Ubiquitous Computing
+true
+11
+Kevin
+Mobile Computing
+true
+12
+Lynette
+Mobile Computing
+true

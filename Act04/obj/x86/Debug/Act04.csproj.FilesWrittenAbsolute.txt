@@ -1,0 +1,5 @@
+/Users/cornelius/Documents/Varsity/WRA 202 Projects/Act04/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/cornelius/Documents/Varsity/WRA 202 Projects/Act04/obj/x86/Debug/Act04.exe
+/Users/cornelius/Documents/Varsity/WRA 202 Projects/Act04/bin/Debug/Act04.exe.mdb
+/Users/cornelius/Documents/Varsity/WRA 202 Projects/Act04/bin/Debug/Act04.exe
+/Users/cornelius/Documents/Varsity/WRA 202 Projects/Act04/obj/x86/Debug/Act04.exe.mdb
