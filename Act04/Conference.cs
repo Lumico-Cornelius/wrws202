@@ -94,8 +94,7 @@ namespace Act04
 				Console.WriteLine ("Empty List");
 				return;
 			}
-			Stack Copy = duplicateList ();
-			displayD (Copy);
+			displayD (Delegates);
 
         }
 
@@ -108,6 +107,7 @@ namespace Act04
 			Delegate Cur = (Delegate)disp.Pop() ;
 			Cur.display ();
 			displayD (disp);
+			disp.Push (Cur);
 		}
 
         public void makePayment(int D, double Amnt)
